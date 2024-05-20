@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Purchasing process"; ObjectID = "1I6-rF-uDZ"; */
+"1I6-rF-uDZ.text" = "Satın alma süreci";
+
+/* Class = "UILabel"; text = "$1500"; ObjectID = "38O-mV-vBH"; */
+"38O-mV-vBH.text" = "48.291 ₺";
+
+/* Class = "UIButton"; configuration.title = "To Take"; ObjectID = "4Xn-DL-B3c"; */
+"4Xn-DL-B3c.configuration.title" = "Ekle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4Xn-DL-B3c"; */
+"4Xn-DL-B3c.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Transaction in progress"; ObjectID = "NVC-kE-Sul"; */
+"NVC-kE-Sul.text" = "İşlem devam ediyor";
+
+/* Class = "UIButton"; configuration.title = "To Add"; ObjectID = "UXI-Bx-XRb"; */
+"UXI-Bx-XRb.configuration.title" = "Ekle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UXI-Bx-XRb"; */
+"UXI-Bx-XRb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coins"; ObjectID = "c3g-Lz-hQW"; */
+"c3g-Lz-hQW.text" = "Coins";
+
+/* Class = "UIButton"; configuration.title = "To Look"; ObjectID = "qVn-nf-ke2"; */
+"qVn-nf-ke2.configuration.title" = "Bak";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qVn-nf-ke2"; */
+"qVn-nf-ke2.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "ADD TO WALLET"; ObjectID = "yxr-qd-C54"; */
+"yxr-qd-C54.configuration.title" = "CÜZDANA EKLE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yxr-qd-C54"; */
+"yxr-qd-C54.normalTitle" = "Button";
